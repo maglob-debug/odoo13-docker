@@ -1,0 +1,16 @@
+# Odoo
+*.pyc
+__pycache__/
+*.log
+
+# Docker
+odoo13_db_data/
+odoo13_web_data/
+
+# Odoo filestore
+filestore/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
